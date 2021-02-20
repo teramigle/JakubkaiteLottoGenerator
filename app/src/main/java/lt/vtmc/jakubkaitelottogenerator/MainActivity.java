@@ -44,8 +44,6 @@
                 }return array;
             }
         });
-//        inputText.setOnFocusChangeListener( new OnFocusChangeListenerMin("0"));
-//        inputText.setFilters(new InputFilter[]{new InputFilterMax("10")});
     }
 
 }
