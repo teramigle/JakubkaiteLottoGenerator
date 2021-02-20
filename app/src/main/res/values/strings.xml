@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JakubkaiteLottoGenerator</string>
+    <string name="lotto_number_generator">Lotto number generator</string>
+    <string name="lottery_balls">Lottery balls</string>
+    <string name="enter_number">Enter number</string>
+    <string name="button_text">Get numbers</string>
+    <string name="result">Result</string>
+</resources>
